@@ -1,0 +1,17 @@
+body {
+    color:rgb(0, 0, 0);
+    background-color:rgb(10, 9, 9);
+    background-image: url("../images/bbc.jpg");
+    font-family: 'Arial, Helvetica Neue, Helvetica, sans-serif'
+
+    
+}
+
+.jumbotron {
+    
+    background-color:rgb(10, 9, 9);
+    background-image: linear-gradient(to bottom right, red, yellow);
+    background-size: 100% 100%;
+    text-align:center;
+    color:rgb(250, 252, 250)
+}
